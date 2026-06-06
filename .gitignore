@@ -4,11 +4,7 @@
 .vscode/launch.json
 .vscode/ipch
 .vscode/
-<<<<<<< HEAD
 .continue/
 build/
 pull.bat
 push.bat
-=======
-build/
->>>>>>> 3e87528d570d31569f4c320ee97184152db38ffc
