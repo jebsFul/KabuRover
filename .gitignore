@@ -6,5 +6,3 @@
 .vscode/
 .continue/
 build/
-pull.bat
-push.bat
